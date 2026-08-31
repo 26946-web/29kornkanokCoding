@@ -22,4 +22,4 @@
 18/08/69 ( สลับคาบ )
 24/08/69 ทำ Proposal Student Techpreneur ให้สมบูรณ์
 27/08/69 ส่ง Proposal Student Techpreneur 
-31/08/69
+31/08/69 ทำ Code swap นำเสนอโปรแกรมของนางสาวสุนิสามานกระสัย
