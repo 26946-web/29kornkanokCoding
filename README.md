@@ -23,3 +23,4 @@
 24/08/69 ทำ Proposal Student Techpreneur ให้สมบูรณ์
 27/08/69 ส่ง Proposal Student Techpreneur 
 31/08/69 ทำ Code swap นำเสนอโปรแกรมของนางสาวสุนิสามานกระสัย
+07/09/69 ทำงานใน classroom งานที่ 13 
